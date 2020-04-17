@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy as python",
+        "command": "robot2pythonkeyword:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "robot2pythonkeyword",
+          "submenu": [
+            {
+              "label": "Copy as python",
+              "command": "robot2pythonkeyword:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

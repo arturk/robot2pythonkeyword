@@ -1,0 +1,18 @@
+{
+  "name": "robot2pythonkeyword",
+  "main": "./lib/robot2pythonkeyword",
+  "version": "0.0.1",
+  "description": "Converts highlighted Robot Framework keyword to python method definition and triggers project find all with this string",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "robot2pythonkeyword:fetch"
+  },
+  "repository": "https://github.com/atom/robot2pythonkeyword",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
