@@ -1,7 +1,7 @@
 {
   "name": "robot2pythonkeyword",
   "main": "./lib/robot2pythonkeyword",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts highlighted Robot Framework keyword to python method definition and triggers project find all with this string",
   "keywords": [],
   "activationCommands": {
