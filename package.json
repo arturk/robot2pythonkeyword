@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "robot2pythonkeyword:fetch"
   },
-  "repository": "https://github.com/atom/robot2pythonkeyword",
+  "repository": "https://github.com/arturk/robot2pythonkeyword",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
